@@ -1,3 +1,17 @@
+
+#######################################################################################################################################################
+# PROGRAM:      Dictionaries.py                                                                                                        #
+# PURPOSE:      This Program is for basic understanding on the topic dictionaries in Python                                                                                                               #
+# AUTHOR(s):    Nithin P                                                                                                                       #
+# VERSION:      1.0                                                                                                                                   #
+# LAST REVISED: 25th NOV 2019                                                                                                                         #
+# PLATFORM:     Local Windows machine                                                                                                                      #
+# SYSTEM:       WINDOWS64                                                                                                                             #
+#######################################################################################################################################################
+
+
+
+
 # dictionary with integer keys
 my_dict = {1: 'apple', 2: 'ball'}
 # dictionary with mixed keys
